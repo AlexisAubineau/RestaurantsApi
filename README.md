@@ -8,7 +8,7 @@ Réalisée lors d'un cours de **Node JS**, cette application a eu pour but d'app
 
 Cette application nécessite d'avoir nodeJs d'installé.
 ```bash
-git clone https://github.com/Thorin10/ApiRestaurants.git
+git clone https://github.com/AlexisAubineau/RestaurantsApi
 npm install 
 node app.js
 ```
